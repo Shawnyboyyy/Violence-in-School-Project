@@ -1,0 +1,42 @@
+body{
+  color: red;
+  background-color: black;
+  text-shadow: 1px -1px;
+  font-family: sans-serif;
+
+}
+h1{
+    text-align:center;
+    color: black;
+    background-color: red;
+
+}
+p{
+  font-family: monospace
+}
+h1 {
+  text-align:center;
+  color: black;
+  background-color: red;
+}
+img{
+float:right;
+    width: 300px;
+  margin: 10px;
+  border-style: double
+}
+br{
+  font-family: fantasy;
+    
+}
+.bullying{
+  border: solid 3px;
+  border-color: RGB(123,45,145);
+}
+.protest{
+border-color:aqua;
+  border-width: thick
+  
+}
+
+  
